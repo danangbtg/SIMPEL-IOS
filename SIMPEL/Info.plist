@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key><string>SIMPEL</string>
+    <key>CFBundleIdentifier</key><string>sch.smpn8bontang.simpel</string>
+    <key>CFBundleName</key><string>SIMPEL</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>UILaunchScreen</key><dict/>
+    <key>NSCameraUsageDescription</key><string>SIMPEL membutuhkan kamera untuk dokumentasi LAPOR dan REWARD.</string>
+    <key>NSPhotoLibraryUsageDescription</key><string>SIMPEL membutuhkan akses foto untuk mengunggah dokumentasi LAPOR dan REWARD.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key><string>SIMPEL dapat menyimpan dokumentasi ke galeri jika diperlukan.</string>
+</dict>
+</plist>
